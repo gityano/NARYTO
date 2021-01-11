@@ -1,0 +1,29 @@
+body{
+    background:url(https://images4.alphacoders.com/824/thumb-1920-824047.jpg);/*картинка фона*/
+    background-repeat:no-repeat;/*убрать повторение картинки фона*/
+    background-attachment: fixed;/*чтобы наша картинка двигалась с прокруткай сайта*/   
+}
+td{
+    border: 1px solid black;
+    background-color: #ff57224f;
+    padding: 10px;
+    color: #1a7ec5;/*цвет текста*/
+}
+img{
+    width: 300px;/*ширина*/
+}
+table{
+    border-collapse:collapse ;
+    width: 70%;/*<ширина таблицы*/
+}
+div{
+    background-color:green;/*цвет фона*/
+    padding: 5px;/*отступ в нутри*/
+}
+div a{
+    margin:0 10px;/*отступ снаружи*/
+    font-size:30px ;/*размер текста*/
+}
+.menu{
+    height: 36px; 
+}
